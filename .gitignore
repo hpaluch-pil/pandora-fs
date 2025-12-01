@@ -1,0 +1,8 @@
+*~
+*.swp
+*.tmp
+*.orig
+*.bak
+# downloaded files
+gotty
+*.gz
